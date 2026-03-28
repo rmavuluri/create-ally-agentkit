@@ -77,10 +77,10 @@ Then, you'll be prompted to select which agents to include. By default, all are 
 
 The following agents are available:
 
-- [React Agent](https://github.com/langchain-ai/react-agent-js)
-- [Memory Agent](https://github.com/langchain-ai/memory-agent-js)
-- [Research Agent](https://github.com/langchain-ai/rag-research-agent-template-js)
-- [Retrieval Agent](https://github.com/langchain-ai/retrieval-agent-template-js)
+- [React Agent](https://github.com/rmavuluri/react-agent-js)
+- [Memory Agent](https://github.com/rmavuluri/memory-agent-js)
+- [Research Agent](https://github.com/rmavuluri/rag-research-agent-template-js)
+- [Retrieval Agent](https://github.com/rmavuluri/retrieval-agent-template-js)
 
 ```
 ◆  Which pre-built agents would you like to include? (Press "space" to select/unselect)
@@ -178,6 +178,6 @@ After entering these values, click `Continue`. You'll then be redirected to a ch
 
 ## Why use Ally AgentKit?
 
-This tool is a quick way to get started with a LangGraph chat application. It is based off of the [Agent Chat UI](https://github.com/langchain-ai/agent-chat-ui) repository, and ships by default with 4 pre-built agents.
+This tool is a quick way to get started with a LangGraph chat application. It is based off of the [Agent Chat UI](https://github.com/rmavuluri/agent-chat-ui) repository, and ships by default with 4 pre-built agents.
 
 Using the Agent Chat UI, you're able to interact, and chat with these agents.
